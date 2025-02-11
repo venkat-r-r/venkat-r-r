@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 Hi there! 👋 I'm Venkat, a passionate Software Engineer with a strong background in developing scalable applications and working with cutting-edge technologies.
 
 ## 🔧 Technologies I Use
-- **Languages**: JavaScript, TypeScript, Python, Java, SQL
+- **Languages**: JavaScript, Java, TypeScript, Python, SQL
 - **Cloud**: AWS (Certified Developer - Associate)
-- **Frameworks**: Node.js, Express.js, HomeSpan
+- **Frameworks**: Node.js, Express.js, HomeSpan, Angular, Spring boot
 - **Database**: MySQL, MongoDB, DynamoDB
 - **Tools**: Docker, Git, CI/CD, GitHub Actions
 - **Others**: ESP32 (PCB design and embedded systems)
