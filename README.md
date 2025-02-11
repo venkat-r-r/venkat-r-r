@@ -33,6 +33,7 @@ Hi there! 👋 I'm Venkat, a passionate Software Engineer with a strong backgrou
 Here are some of the projects I have worked on:
 - **Home Automation**: A smart home project utilizing the Apple native Home app for seamless control.
 - **URL Shortener**: A URL shortening service built with Node.js and Express.js that allows users to shorten long URLs.
+- **ToDo App**: A web app developed using Angular and Java Spring Boot, implementing CRUD operations with REST APIs, JWT authentication, and MySQL for efficient task management
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/venkat-rimmalapudi/
